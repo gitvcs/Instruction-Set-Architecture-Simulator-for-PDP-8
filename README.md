@@ -1,0 +1,2 @@
+# Instruction-Set-Architecture-Simulator-for-PDP-8
+Implemented instructions, register file and addressing modes of PDP-8 architecture. It takes object file (.OBJ) as input generated from assembly code of PDP-8 and executes it in the same way a PDP-8 would have done. As a output displayed instruction count, register contents and memory trace file. Tested it by executing assembly code covering all types of addressing modes, ALU instructions and branch instructions. (Language: C++)
